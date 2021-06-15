@@ -5,7 +5,7 @@ metadata:
   namespace: kubernetes-dashboard
 spec:
   rules:
-    - host: dashbaord.com
+    - host: dashboard.com
       http:
         paths:
           - pathType: Prefix
